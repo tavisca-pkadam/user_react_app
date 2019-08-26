@@ -1,0 +1,91 @@
+
+.header {
+    background-color: #17223b;
+    height:10vh;
+    width: 100vw;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.footer {
+    background-color: #17223b;
+    height:10vh;
+    width: 100vw;
+}
+
+.user_details {
+    background-color: #263859;
+    width: 70vw;
+    height: 80vh;
+    float: right;
+    /* padding:10px; */
+}
+
+input{
+    width: 20vw;
+    height: 5vh;
+}
+
+.padd_10_px .paded_div{
+  padding:10px;
+}
+
+.text_align_center .paded_div{
+    text-align: center;
+    border-style: solid;
+    border-color: #f7be16;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+
+.div_25vw{
+    width:25vw;
+    color: #bbded6;
+    text-align: center;
+    border-style: solid;
+    border-color: #f7be16;
+    border-radius: 10px;
+    padding:10px;
+    margin: 15px;
+}
+
+.div_65vw{
+    width:65vw;
+
+    color: #bbded6;
+    text-align: center;
+    border-style: solid;
+    border-color: #f7be16;
+    border-radius: 10px;
+    padding:10px;
+    margin: 15px;
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.3rem;
+    color: #bbded6;
+    margin:0px;
+}
+
+
+
+.border_style {}
+
+.content {
+    background-color: #263859;
+    width: 100vw;
+    height: 80vh;
+
+}
+
+.user_list{
+    background-color: #263859;
+    width: 30vw;
+    float: left;
+    height: 80vh;
+    /* padding:10px; */
+
+
+}
